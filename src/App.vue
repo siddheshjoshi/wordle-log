@@ -57,7 +57,7 @@ export default {
             "GM":2,
             "AM":2,
             "AJ":2,
-            "SJ":2
+            "SJ":5
           }
         }
       ],
