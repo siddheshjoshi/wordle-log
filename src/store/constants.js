@@ -36,6 +36,51 @@ const CONSTANTS = {
             "SJ":6
           }
         },
+        {
+          wordleDay: "234",
+          playerScores: {
+            "GM":5,
+            "AM":3,
+            "AJ":6,
+            "SJ":5
+          }
+        },
+        {
+          wordleDay: "235",
+          playerScores: {
+            "GM":4,
+            "AM":3,
+            "AJ":4,
+            "SJ":4
+          }
+        },
+        {
+          wordleDay: "236",
+          playerScores: {
+            "GM":6,
+            "AM":6,
+            "AJ":3,
+            "SJ":4
+          }
+        },
+        {
+          wordleDay: "237",
+          playerScores: {
+            "GM":6,
+            "AM":5,
+            "AJ":5,
+            "SJ":6
+          }
+        },
+        {
+          wordleDay: "238",
+          playerScores: {
+            "GM":4,
+            "AM":4,
+            "AJ":3,
+            "SJ":3
+          }
+        }
       ]
 }
 

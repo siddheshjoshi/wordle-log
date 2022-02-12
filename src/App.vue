@@ -7,7 +7,7 @@
       <div class="col-md-6 col-12">
         <div class="row px-md-0 px-2">
           <div class="col-12">
-            Log...
+            History
           </div>
           <div class="col-12">
             <div v-for="(log, index) in wordleScores" :key="index">
@@ -52,15 +52,21 @@ export default {
     generateData() {
       this.getScores()
       let playerAverages = []
+
+      this.playerTotals = Object.entries(this.playerTotals)
+        .sort(([,a],[,b]) => a-b)
+        .reduce((r, [k, v]) => ({ ...r, [k]: v }), {});
+
       Object.values(this.playerTotals).forEach((total)=> {
         playerAverages.push((total/this.index).toFixed(2))
       })
+
       this.chartData = {
         labels: Object.keys(this.playerTotals),
         datasets: [
           {
-            label: "Wordle average",
-            backgroundColor: "#f87979",
+            label: "Wordle average guess per day",
+            backgroundColor: ['#AAE2C3', '#F4E8AB', '#FFC1C1', '#FFC1C1'],
             data: playerAverages
           }
         ]
