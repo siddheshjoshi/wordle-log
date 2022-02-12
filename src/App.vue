@@ -33,39 +33,7 @@ export default {
       chartData: {},
       playerTotals : {},
       index: 0,
-<<<<<<< HEAD
       wordleScores:CONSTANTS.scores,
-=======
-      wordleScores:[
-        {
-          wordleDay: "231",
-          playerScores: {
-            "GM":4,
-            "AM":2,
-            "AJ":1,
-            "SJ":6
-          }
-        },
-        {
-          wordleDay: "231",
-          playerScores: {
-            "GM":1,
-            "AM":2,
-            "AJ":2,
-            "SJ":1
-          }
-        },
-        {
-          wordleDay: "231",
-          playerScores: {
-            "GM":2,
-            "AM":2,
-            "AJ":2,
-            "SJ":5
-          }
-        }
-      ],
->>>>>>> deb72e9f42bd60a711ead3a9467947cfbf692ed4
       options: {
         scales: {
           yAxes: [
