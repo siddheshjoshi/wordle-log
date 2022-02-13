@@ -81,7 +81,7 @@ const CONSTANTS = {
             "SJ":3
           } ,
         {
-          wordleDay: "238",
+          wordleDay: "239",
           playerScores: {
             "GM":3,
             "AM":4,
