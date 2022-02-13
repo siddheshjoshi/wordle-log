@@ -79,8 +79,8 @@ const CONSTANTS = {
             "AM":4,
             "AJ":3,
             "SJ":3
-          } ,
-        {
+          },
+          {
           wordleDay: "239",
           playerScores: {
             "GM":3,
