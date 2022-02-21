@@ -144,6 +144,16 @@ const CONSTANTS = {
         SJ: 4,
       },
     },
+    {
+      wordleDay: "247",
+      playerScores: {
+        GM: 6,
+        AM: 2,
+        AJ: 4,
+        SJ: 4,
+      },
+    }
+
   ],
 };
 
