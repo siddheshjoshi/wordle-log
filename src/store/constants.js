@@ -161,6 +161,51 @@ const CONSTANTS = {
         AJ: 4,
         SJ: 4,
       },
+    }  ,
+    {
+      wordleDay: "249",
+      playerScores: {
+        GM: 5,
+        AM: 4,
+        AJ: 6,
+        SJ: 6,
+      },
+    }  ,
+    {
+      wordleDay: "250",
+      playerScores: {
+        GM: 5,
+        AM: 4,
+        AJ: 3,
+        SJ: 3,
+      },
+    }  ,
+    {
+      wordleDay: "251",
+      playerScores: {
+        GM: 5,
+        AM: 5,
+        AJ: 6,
+        SJ: 4,
+      },
+    }  ,
+    {
+      wordleDay: "252",
+      playerScores: {
+        GM: 6,
+        AM: 6,
+        AJ: 6,
+        SJ: 3,
+      },
+    },
+    {
+      wordleDay: "253",
+      playerScores: {
+        GM: 3,
+        AM: 2,
+        AJ: 4,
+        SJ: 5,
+      },
     }
 
   ],
