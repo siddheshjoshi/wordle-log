@@ -287,7 +287,7 @@ const CONSTANTS = {
                 AJ: 4,
                 SJ: 3,
             },
-        } ,
+        },
         {
             wordleDay: "263",
             playerScores: {
@@ -296,7 +296,7 @@ const CONSTANTS = {
                 AJ: 5,
                 SJ: 5,
             },
-        } ,
+        },
         {
             wordleDay: "264",
             playerScores: {
@@ -305,7 +305,7 @@ const CONSTANTS = {
                 AJ: 4,
                 SJ: 3,
             },
-        } ,
+        },
         {
             wordleDay: "265",
             playerScores: {
@@ -313,6 +313,87 @@ const CONSTANTS = {
                 AM: 5,
                 AJ: 5,
                 SJ: 6,
+            },
+        },
+        {
+            wordleDay: "266",
+            playerScores: {
+                GM: 6,
+                AM: 3,
+                AJ: 4,
+                SJ: 3,
+            },
+        },
+        {
+            wordleDay: "267",
+            playerScores: {
+                GM: 5,
+                AM: 4,
+                AJ: 3,
+                SJ: 4,
+            },
+        },
+        {
+            wordleDay: "268",
+            playerScores: {
+                GM: 4,
+                AM: 5,
+                AJ: 4,
+                SJ: 4,
+            },
+        },
+        {
+            wordleDay: "269",
+            playerScores: {
+                GM: 3,
+                AM: 2,
+                AJ: 5,
+                SJ: 3,
+            },
+        },
+        {
+            wordleDay: "270",
+            playerScores: {
+                GM: 6,
+                AM: 5,
+                AJ: 6,
+                SJ: 3,
+            },
+        },
+        {
+            wordleDay: "272",
+            playerScores: {
+                GM: 5,
+                AM: 5,
+                AJ: 4,
+                SJ: 3,
+            },
+        },
+        {
+            wordleDay: "273",
+            playerScores: {
+                GM: 5,
+                AM: 4,
+                AJ: 5,
+                SJ: 5,
+            },
+        },
+        {
+            wordleDay: "274",
+            playerScores: {
+                GM: 6,
+                AM: 4,
+                AJ: 5,
+                SJ: 4,
+            },
+        },
+        {
+            wordleDay: "275",
+            playerScores: {
+                GM: 3,
+                AM: 3,
+                AJ: 2,
+                SJ: 3,
             },
         }
 
